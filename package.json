@@ -1,7 +1,7 @@
 {
-    "name": "gampang-mongodb-adapter",
+    "name": "gampang-sqlite3-adapter",
     "version": "1.0.0",
-    "description": "Gampang MongoDB Adapter for Auth Session",
+    "description": "Gampang SQLite3 Adapter for Auth Session",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
