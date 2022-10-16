@@ -1,0 +1,7 @@
+{
+    "extends": "@bilibili-dl/config/tsconfig.base.json",
+    "exclude": ["node_modules", "dist"],
+    "compilerOptions": {
+        "esModuleInterop": true
+    }
+}
