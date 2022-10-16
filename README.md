@@ -1,6 +1,6 @@
-# Gampang Auth MongoDB Adapter
+# Gampang Auth SQLite3 Adapter
 
-Auth session mongodb adapter version for [gampang](https://github.com/hansputera/gampang)
+Auth session SQLite3 adapter version for [gampang](https://github.com/hansputera/gampang)
 
 > Status: WIP
 
